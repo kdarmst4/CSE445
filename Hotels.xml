@@ -48,4 +48,78 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Residence Inn Tempe Downtown / University</Name>
+		<Phone>480-967-2300</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>510</Number>
+			<Street>S Forest Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Hampton Inn &amp; Suites Phoenix / Tempe - ASU Area</Name>
+		<Phone>480-410-6400</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1415</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name>Drury Inn &amp; Suites Phoenix Tempe</Name>
+		<Phone>480-940-3700</Phone>
+		<Address>
+			<Number>1780</Number>
+			<Street>W Ranch Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85284</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>Embassy Suites by Hilton Phoenix Tempe</Name>
+		<Phone>480-897-7444</Phone>
+		<Phone>800-362-2779</Phone>
+		<Address>
+			<Number>4400</Number>
+			<Street>S Rural Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Courtyard by Marriott Phoenix Mesa</Name>
+		<Phone>480-461-3000</Phone>
+		<Address NearestAirport="Phoenix-Mesa Gateway">
+			<Number>1221</Number>
+			<Street>S Westwood Ave</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Holiday Inn Express &amp; Suites Tempe</Name>
+		<Phone>480-831-9800</Phone>
+		<Address>
+			<Number>1520</Number>
+			<Street>W Baseline Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85283</Zip>
+		</Address>
+	</Hotel>
+
 </Hotels>
